@@ -1,7 +1,7 @@
 # base-auto-tx
 
-An automation script for sending ETH transactions on the **Base Mainnet** using TypeScript + Ethers.js.  
-Designed for micro-transactions with configurable intervals via the `.env` file.
+A flexible automation script for ETH transfers on the Base Mainnet (TypeScript + Ethers.js).
+Supports both micro and large transactions, with fully configurable intervals and settings via `.env`.
 
 ---
 
@@ -66,6 +66,6 @@ Run automatically without type npm run start with:
 
 ## ⚠️ Disclaimer
 
-Use this script responsibly.
-Any asset loss is the sole responsibility of the user.
-For educational and experimental purposes only.
+Use this script responsibly.  
+Any asset loss is the sole responsibility of the user.  
+For educational and experimental purposes only.  
