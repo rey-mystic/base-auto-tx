@@ -61,6 +61,8 @@ TOTAL_TX=300
 ```
 npm run start
 ```
+Run automatically without type npm run start with:
+`auto_start.bat`
 
 ## ⚠️ Disclaimer
 
