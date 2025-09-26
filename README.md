@@ -20,7 +20,7 @@ Supports both micro and large transactions, with fully configurable intervals an
 Clone the repository and install dependencies:
 
 ```
-git clone https://github.com/rey-mystic/auto-tx-base.git
+git clone https://github.com/rey-mystic/base-auto-tx.git
 cd base-auto-tx
 npm install
 ```
